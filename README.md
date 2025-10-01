@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**mayssouneloucif-hash/mayssouneloucif-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mays Soune, an aspiring Software Engineer and web developer student from Algeria 🚀
 
-Here are some ideas to get you started:
+💻 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: HTML, CSS, Python
+
+Tools: Git, GitHub, VS Code
+
+🌱 Currently Learning
+
+JavaScript and modern web development
+
+Collaborating on projects and improving my skills
+
+📫 How to reach me
+
+Email: Mayssouneloucif@gmail.com
+
+LinkedIn: Mays Soune Loucif
+
+
